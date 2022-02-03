@@ -1,4 +1,3 @@
-x = 10
 import math
 
 class MathOperations:
